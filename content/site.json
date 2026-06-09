@@ -1,0 +1,25 @@
+{
+  "name": "Cozy Home Finds",
+  "tagline": "Curated home decor to make every room feel warm and inviting",
+  "description": "Discover hand-picked home decor, cozy accents, and stylish essentials from Amazon. Honest picks for modern, comfortable living.",
+  "url": "https://cozyhomefinds.com",
+  "amazon": {
+    "associateTag": "YOUR-TAG-20",
+    "marketplace": "www.amazon.com"
+  },
+  "navigation": [
+    { "label": "Collections", "href": "/collections" },
+    { "label": "Blog", "href": "/blog" },
+    { "label": "About", "href": "/about" }
+  ],
+  "social": {
+    "pinterest": "",
+    "instagram": ""
+  },
+  "featuredCollectionSlugs": ["cozy-living-room", "bedroom-retreat", "kitchen-dining"],
+  "homepage": {
+    "heroTitle": "Make your home feel like a warm embrace",
+    "heroSubtitle": "Curated decor picks for cozy living rooms, serene bedrooms, and inviting spaces — all shoppable on Amazon.",
+    "heroImage": "https://images.unsplash.com/photo-1616046229470-4b8a7d8f8b5e?w=1600&q=80"
+  }
+}
