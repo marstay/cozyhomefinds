@@ -91,11 +91,33 @@ export default function PrivacyPage() {
         </p>
       </LegalSection>
 
-      <LegalSection title="Cookies">
+      <LegalSection title="Cookies & Analytics">
         <p>
-          We may use essential cookies required for site functionality (such as
-          admin access). We do not currently use advertising or tracking cookies
-          on the public site. If this changes, we will update this policy.
+          We use Google Analytics to understand how visitors use our site (pages
+          viewed, general location, device type). Google may set cookies or use
+          similar technologies for this purpose. Learn more in{" "}
+          <a
+            href="https://policies.google.com/privacy"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent hover:underline"
+          >
+            Google&apos;s Privacy Policy
+          </a>
+          . You can opt out using the{" "}
+          <a
+            href="https://tools.google.com/dlpage/gaoptout"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-accent hover:underline"
+          >
+            Google Analytics Opt-out Browser Add-on
+          </a>
+          .
+        </p>
+        <p>
+          We may also use essential cookies required for site functionality
+          (such as admin access).
         </p>
       </LegalSection>
 
