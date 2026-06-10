@@ -32,6 +32,9 @@ export const metadata: Metadata = {
   verification: {
     google: "wbY9HnUxnE-fP_eEX89v0IIZSkk3-JT9XVkggPYIZLg",
   },
+  other: {
+    "p:domain_verify": "13bfa7feefc8552fab8b1ae3b222227f",
+  },
 };
 
 export default function RootLayout({
