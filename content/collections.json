@@ -1,0 +1,83 @@
+[
+  {
+    "id": "living-room",
+    "slug": "living-room",
+    "title": "Living Room",
+    "description": "Sofas, throws, lamps, and accents to create a welcoming living space.",
+    "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&h=500&fit=crop",
+    "productIds": [
+      "B0D1XJTV1N",
+      "B0FH4T7HGP",
+      "B0C4SZBN64",
+      "B07FZQ1Z5D",
+      "B0813NPTWB",
+      "B0CF9K1NJM",
+      "B0C7WH88W7"
+    ],
+    "featured": true,
+    "order": 1
+  },
+  {
+    "id": "bedroom",
+    "slug": "bedroom",
+    "title": "Bedroom",
+    "description": "Cozy bedding, soft lighting, and calming accents for restful nights.",
+    "image": "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?w=800&h=500&fit=crop",
+    "productIds": [
+      "B0BRV36JJ4",
+      "B0C5DJTKRW",
+      "B097479QQY",
+      "B0F12CN9DH"
+    ],
+    "featured": true,
+    "order": 2
+  },
+  {
+    "id": "kitchen-dining",
+    "slug": "kitchen-dining",
+    "title": "Kitchen & Dining",
+    "description": "Table linens, serveware, and decor that make every meal feel special.",
+    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800&h=500&fit=crop",
+    "productIds": [
+      "B08BNL7NNQ",
+      "B09YJYX6BG",
+      "B0C3QZ7SNF",
+      "B0FH6YL3XC",
+      "B0C852T96P"
+    ],
+    "featured": true,
+    "order": 3
+  },
+  {
+    "id": "bathroom",
+    "slug": "bathroom",
+    "title": "Bathroom",
+    "description": "Spa-inspired accessories and natural textures for a serene retreat.",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&h=500&fit=crop",
+    "productIds": [
+      "B0BHWC6N41",
+      "B09WHRHN3G",
+      "B09NF56851",
+      "B07GZ9BXTG",
+      "B0CSVLC646",
+      "B0CM5ZVGKH"
+    ],
+    "featured": true,
+    "order": 4
+  },
+  {
+    "id": "wall-art",
+    "slug": "wall-art",
+    "title": "Wall Art & Mirrors",
+    "description": "Statement pieces and subtle accents to dress up blank walls.",
+    "image": "https://images.unsplash.com/photo-1615529328331-f8917597711f?w=800&h=500&fit=crop",
+    "productIds": [
+      "B0CSK2GHPH",
+      "B0816Y8RYT",
+      "B0D6QJ62Z7",
+      "B0F8QLV7YP"
+    ],
+    "featured": false,
+    "order": 5
+  }
+]

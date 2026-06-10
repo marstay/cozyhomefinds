@@ -1,25 +1,73 @@
 {
   "name": "Cozy Home Finds",
-  "tagline": "Curated home decor to make every room feel warm and inviting",
-  "description": "Discover hand-picked home decor, cozy accents, and stylish essentials from Amazon. Honest picks for modern, comfortable living.",
-  "url": "https://cozyhomefinds.com",
+  "tagline": "Curated home decor that makes every room feel like home",
+  "description": "Discover hand-picked home decor, cozy textiles, and stylish accents from Amazon. Curated collections for living rooms, bedrooms, kitchens, and more.",
+  "url": "https://cozyhomefinds.online",
   "amazon": {
-    "associateTag": "YOUR-TAG-20",
+    "associateTag": "travelonbud08-20",
     "marketplace": "www.amazon.com"
   },
   "navigation": [
-    { "label": "Collections", "href": "/collections" },
-    { "label": "Blog", "href": "/blog" },
-    { "label": "About", "href": "/about" }
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Collections",
+      "href": "/collections"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    }
   ],
   "social": {
-    "pinterest": "",
+    "pinterest": "https://www.pinterest.com/cozyhomefindsfy",
     "instagram": ""
   },
-  "featuredCollectionSlugs": ["cozy-living-room", "bedroom-retreat", "kitchen-dining"],
-  "homepage": {
-    "heroTitle": "Make your home feel like a warm embrace",
-    "heroSubtitle": "Curated decor picks for cozy living rooms, serene bedrooms, and inviting spaces — all shoppable on Amazon.",
-    "heroImage": "https://images.unsplash.com/photo-1616046229470-4b8a7d8f8b5e?w=1600&q=80"
+  "contact": {
+    "email": "hello@cozyhomefinds.online"
+  },
+  "footer": {
+    "disclaimer": "As an Amazon Associate, we earn from qualifying purchases. Prices and availability are accurate as of the date/time indicated and are subject to change.",
+    "copyright": "© 2026 Cozy Home Finds. All rights reserved."
+  },
+  "hero": {
+    "eyebrow": "Curated Home Decor",
+    "title": "Make every corner of your home feel cozy",
+    "subtitle": "Hand-picked decor, textiles, and accents — organized into collections so you can find the perfect piece faster.",
+    "ctaPrimary": {
+      "label": "Shop Collections",
+      "href": "/collections"
+    },
+    "ctaSecondary": {
+      "label": "Read the Blog",
+      "href": "/blog"
+    }
+  },
+  "featured": {
+    "title": "Featured Finds",
+    "subtitle": "Our current favorites — updated weekly",
+    "productIds": [
+      "B0D1XJTV1N",
+      "B0C4SZBN64",
+      "B0813NPTWB",
+      "B0FH6YL3XC",
+      "B0C7WH88W7",
+      "B0BRV36JJ4",
+      "B0C5DJTKRW",
+      "B0F12CN9DH"
+    ]
+  },
+  "newsletter": {
+    "enabled": true,
+    "title": "Get cozy inspiration in your inbox",
+    "subtitle": "New collections, seasonal picks, and decor tips — no spam.",
+    "placeholder": "Enter your email",
+    "buttonLabel": "Subscribe"
   }
 }
